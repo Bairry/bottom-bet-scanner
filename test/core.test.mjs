@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {parseStandingTexts,parseDateTime,vulnerability} from '../scraper/core.mjs';
+test('parse un classement public',()=>{assert.deepEqual(parseStandingTexts(['18. Le Havre 28 7 4 17 25:49 25','1. PSG 28 20 6 2 70:20 66']),[{rank:18,team:'Le Havre'},{rank:1,team:'PSG'}])});
+test('parse une date et heure',()=>{const d=parseDateTime('10.09. 20:45',new Date('2026-09-10T08:00:00Z'));assert.equal(d.getHours(),20);assert.equal(d.getMinutes(),45)});
+test('score borné et sensible à la forme',()=>{const base={rank:18,tableSize:18,venue:'away',opponentRank:3};assert.ok(vulnerability({...base,form:['L','L','L','L','L']})>vulnerability({...base,form:['W','W','W','W','W']}));assert.ok(vulnerability({...base,form:['L','L','L','L','L']})<=100)});
