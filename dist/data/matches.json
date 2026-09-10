@@ -1,10 +1,97 @@
 {
-  "generatedAt": "2026-09-10T08:00:00.000Z",
-  "source": "Données de démonstration — lancer npm run scrape pour actualiser",
+  "generatedAt": "2026-09-10T19:58:42.213Z",
+  "source": "TheSportsDB + Football-Data.co.uk",
+  "errors": [],
   "matches": [
-    {"league":"Premier League","bottomTeam":"Burnley","bottomRank":19,"tableSize":20,"opponent":"Brighton","opponentRank":8,"kickoff":"2026-09-10T19:00:00.000Z","venue":"home","form":["L","L","D","L","W"],"vulnerability":82},
-    {"league":"Ligue 1","bottomTeam":"Le Havre","bottomRank":18,"tableSize":18,"opponent":"Lille","opponentRank":5,"kickoff":"2026-09-11T18:45:00.000Z","venue":"away","form":["L","D","L","L","L"],"vulnerability":91},
-    {"league":"Bundesliga","bottomTeam":"St. Pauli","bottomRank":16,"tableSize":18,"opponent":"Mainz","opponentRank":11,"kickoff":"2026-09-10T17:30:00.000Z","venue":"away","form":["D","L","W","L","L"],"vulnerability":76},
-    {"league":"Liga","bottomTeam":"Elche","bottomRank":17,"tableSize":20,"opponent":"Osasuna","opponentRank":12,"kickoff":"2026-09-10T20:00:00.000Z","venue":"home","form":["W","L","D","L","L"],"vulnerability":68}
+    {
+      "league": "Eredivisie",
+      "bottomTeam": "Willem II",
+      "bottomRank": 17,
+      "tableSize": 18,
+      "opponent": "AZ Alkmaar",
+      "opponentRank": 1,
+      "kickoff": "2026-09-11T18:00:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 89
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Union Berlin",
+      "bottomRank": 15,
+      "tableSize": 18,
+      "opponent": "Schalke 04",
+      "opponentRank": 14,
+      "kickoff": "2026-09-11T18:30:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 65
+    },
+    {
+      "league": "Serie A",
+      "bottomTeam": "Fiorentina",
+      "bottomRank": 20,
+      "tableSize": 20,
+      "opponent": "Venezia",
+      "opponentRank": 18,
+      "kickoff": "2026-09-11T18:45:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "Belgique",
+      "bottomTeam": "Mechelen",
+      "bottomRank": 15,
+      "tableSize": 18,
+      "opponent": "Anderlecht",
+      "opponentRank": 11,
+      "kickoff": "2026-09-11T18:45:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "Liga",
+      "bottomTeam": "Valencia",
+      "bottomRank": 20,
+      "tableSize": 20,
+      "opponent": "Sevilla",
+      "opponentRank": 7,
+      "kickoff": "2026-09-11T19:00:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ],
+      "vulnerability": 90
+    }
   ]
 }
