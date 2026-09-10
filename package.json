@@ -9,9 +9,7 @@
     "check": "node --check dist/app.js && node --check scraper/index.mjs",
     "start": "npx serve dist"
   },
-  "dependencies": {
-    "playwright": "1.55.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "serve": "14.2.4"
   }
