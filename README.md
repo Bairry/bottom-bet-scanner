@@ -1,6 +1,6 @@
 # BottomBet Scanner
 
-Tableau de bord statique qui repère les prochains matchs des trois ou cinq derniers de 11 championnats européens. Les données sont obtenues gratuitement auprès de TheSportsDB et des fichiers CSV publics de Football-Data.co.uk, puis servies par Netlify.
+Tableau de bord statique qui repère les prochains matchs des trois ou cinq derniers de 19 divisions européennes. Les données sont obtenues gratuitement auprès de TheSportsDB et des fichiers CSV publics de Football-Data.co.uk, puis servies par Netlify.
 
 ## Utilisation locale
 
