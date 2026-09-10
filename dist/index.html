@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080b10">
+  <meta name="description" content="Matchs à surveiller des équipes en bas de classement.">
+  <title>BottomBet Scanner</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="BottomBet Scanner, accueil">
+      <span class="mark" aria-hidden="true">B</span>
+      <span>BottomBet <b>Scanner</b></span>
+    </a>
+    <div class="live"><span></span><strong id="matchCount">—</strong> alertes</div>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="title">
+      <div>
+        <p class="eyebrow">RADAR BAS DE TABLEAU</p>
+        <h1 id="title">Les matchs sous <em>pression.</em></h1>
+        <p>Les équipes en difficulté, leurs dynamiques et le contexte du prochain match — en un coup d’œil.</p>
+      </div>
+      <div class="updated" id="updatedAt"><span>DERNIÈRE ANALYSE</span>Chargement…</div>
+    </section>
+
+    <section class="controls" aria-label="Filtres">
+      <div class="segmented" role="group" aria-label="Jour du match">
+        <button class="active" data-day="today">Aujourd’hui</button>
+        <button data-day="tomorrow">Demain</button>
+      </div>
+      <div class="segmented" role="group" aria-label="Zone de classement">
+        <button class="active" data-bottom="3">3 derniers</button>
+        <button data-bottom="5">5 derniers</button>
+      </div>
+      <label><span>Championnat</span><select id="league"><option value="all">Tous les championnats</option></select></label>
+      <label><span>Terrain</span><select id="venue"><option value="all">Domicile & extérieur</option><option value="home">Domicile</option><option value="away">Extérieur</option></select></label>
+    </section>
+
+    <section class="summary" aria-live="polite">
+      <div><span id="resultCount">0</span><small>matchs détectés</small></div>
+      <p id="summaryText">Analyse des calendriers en cours.</p>
+      <div class="legend"><i></i> vulnérabilité élevée</div>
+    </section>
+
+    <section id="cards" class="cards" aria-label="Matchs détectés"></section>
+    <div id="empty" class="empty" hidden><span>Ø</span><h2>Aucun match détecté</h2><p>Essayez un autre jour ou élargissez la zone aux 5 derniers.</p></div>
+  </main>
+
+  <footer><span>BottomBet Scanner</span><p>Score indicatif basé sur le classement, la forme et le lieu du match. Jouez avec modération.</p></footer>
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card-head"><span class="league"></span><time></time></div>
+      <div class="matchup">
+        <div class="team vulnerable"><span class="rank"></span><strong></strong><small></small></div>
+        <div class="versus"><span>VS</span><b></b></div>
+        <div class="team opponent"><span class="rank"></span><strong></strong><small></small></div>
+      </div>
+      <div class="card-foot">
+        <div class="form"><span>FORME · 5 DERNIERS</span><div></div></div>
+        <div class="score"><span>VULNÉRABILITÉ</span><strong></strong><small>/100</small></div>
+      </div>
+      <div class="meter"><i></i></div>
+    </article>
+  </template>
+</body>
+</html>
