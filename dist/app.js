@@ -17,7 +17,7 @@ function card(m){
 }
 async function init(){
   try{const r=await fetch('/data/matches.json',{cache:'no-store'});if(!r.ok)throw new Error();state.data=await r.json();
-    const select=$('#league');[...new Set(state.data.matches.map(m=>m.league))].sort().forEach(x=>select.add(new Option(x,x)));
+    const select=$('#league');[...new Set(state.data.leagues||state.data.matches.map(m=>m.league))].sort().forEach(x=>select.add(new Option(x,x)));
     const hasToday=state.data.matches.some(m=>relativeDay(m.kickoff)===0),hasWeekend=state.data.matches.some(m=>{const d=new Date(m.kickoff),delta=relativeDay(m.kickoff);return delta>=0&&delta<=7&&[0,5,6].includes(d.getDay())});
     if(!hasToday&&hasWeekend){state.day='weekend';document.querySelectorAll('[data-day]').forEach(b=>b.classList.toggle('active',b.dataset.day==='weekend'))}
     $('#updatedAt').innerHTML=`<span>DERNIÈRE ANALYSE</span>${new Intl.DateTimeFormat('fr-FR',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Paris'}).format(new Date(state.data.generatedAt))}`;render();
