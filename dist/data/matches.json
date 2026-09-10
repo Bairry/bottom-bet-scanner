@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-09-10T08:00:00.000Z",
+  "source": "Données de démonstration — lancer npm run scrape pour actualiser",
+  "matches": [
+    {"league":"Premier League","bottomTeam":"Burnley","bottomRank":19,"tableSize":20,"opponent":"Brighton","opponentRank":8,"kickoff":"2026-09-10T19:00:00.000Z","venue":"home","form":["L","L","D","L","W"],"vulnerability":82},
+    {"league":"Ligue 1","bottomTeam":"Le Havre","bottomRank":18,"tableSize":18,"opponent":"Lille","opponentRank":5,"kickoff":"2026-09-11T18:45:00.000Z","venue":"away","form":["L","D","L","L","L"],"vulnerability":91},
+    {"league":"Bundesliga","bottomTeam":"St. Pauli","bottomRank":16,"tableSize":18,"opponent":"Mainz","opponentRank":11,"kickoff":"2026-09-10T17:30:00.000Z","venue":"away","form":["D","L","W","L","L"],"vulnerability":76},
+    {"league":"Liga","bottomTeam":"Elche","bottomRank":17,"tableSize":20,"opponent":"Osasuna","opponentRank":12,"kickoff":"2026-09-10T20:00:00.000Z","venue":"home","form":["W","L","D","L","L"],"vulnerability":68}
+  ]
+}
