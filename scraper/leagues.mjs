@@ -1,13 +1,21 @@
 export const LEAGUES = [
   {name:'Premier League', sportsDb:'4328', dataCode:'E0'},
   {name:'Championship', sportsDb:'4329', dataCode:'E1'},
+  {name:'League One', sportsDb:null, dataCode:'E2'},
+  {name:'League Two', sportsDb:null, dataCode:'E3'},
+  {name:'National League', sportsDb:null, dataCode:'EC'},
+  {name:'Premiership écossaise', sportsDb:null, dataCode:'SC0'},
   {name:'Bundesliga', sportsDb:'4331', dataCode:'D1'},
+  {name:'2. Bundesliga', sportsDb:null, dataCode:'D2'},
   {name:'Serie A', sportsDb:'4332', dataCode:'I1'},
+  {name:'Serie B', sportsDb:null, dataCode:'I2'},
   {name:'Ligue 1', sportsDb:'4334', dataCode:'F1'},
   {name:'Liga', sportsDb:'4335', dataCode:'SP1'},
+  {name:'LaLiga 2', sportsDb:null, dataCode:'SP2'},
   {name:'Eredivisie', sportsDb:'4337', dataCode:'N1'},
   {name:'Belgique', sportsDb:'4338', dataCode:'B1'},
   {name:'Ligue 2', sportsDb:'4401', dataCode:'F2'},
   {name:'Liga Portugal', sportsDb:null, dataCode:'P1'},
-  {name:'Süper Lig', sportsDb:null, dataCode:'T1'}
+  {name:'Süper Lig', sportsDb:null, dataCode:'T1'},
+  {name:'Super League grecque', sportsDb:null, dataCode:'G1'}
 ];
