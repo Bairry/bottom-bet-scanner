@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:47:17.138Z",
+  "generatedAt": "2026-09-12T00:21:24.493Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,204 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "AZ Alkmaar",
-      "opponentRank": 1,
-      "kickoff": "2026-09-11T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 89
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Clermont",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Boulogne",
-      "opponentRank": 13,
-      "kickoff": "2026-09-11T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "D",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 62
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Dijon",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Laval",
-      "opponentRank": 17,
-      "kickoff": "2026-09-11T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 75
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Grenoble",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Rodez",
-      "opponentRank": 8,
-      "kickoff": "2026-09-11T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 77
-    },
-    {
-      "league": "Bundesliga",
-      "bottomTeam": "Union Berlin",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Schalke 04",
-      "opponentRank": 14,
-      "kickoff": "2026-09-11T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 65
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Ceuta",
-      "bottomRank": 22,
-      "tableSize": 22,
-      "opponent": "Burgos",
-      "opponentRank": 13,
-      "kickoff": "2026-09-11T19:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 92
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Fiorentina",
-      "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Venezia",
-      "opponentRank": 18,
-      "kickoff": "2026-09-11T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 86
-    },
-    {
-      "league": "Belgique",
-      "bottomTeam": "Mechelen",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Anderlecht",
-      "opponentRank": 11,
-      "kickoff": "2026-09-11T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Serie B",
-      "bottomTeam": "Benevento",
-      "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Verona",
-      "opponentRank": 10,
-      "kickoff": "2026-09-11T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 69
-    },
-    {
-      "league": "Serie B",
-      "bottomTeam": "Virtus Entella",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Pisa",
-      "opponentRank": 7,
-      "kickoff": "2026-09-11T20:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Valencia",
-      "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Sevilla",
-      "opponentRank": 7,
-      "kickoff": "2026-09-11T20:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 90
-    },
     {
       "league": "2. Bundesliga",
       "bottomTeam": "Dresden",
@@ -1463,6 +1265,42 @@
         "D"
       ],
       "vulnerability": 86
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Union Berlin",
+      "bottomRank": 15,
+      "tableSize": 18,
+      "opponent": "Bayern Munich",
+      "opponentRank": 6,
+      "kickoff": "2026-09-18T18:30:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Schalke 04",
+      "bottomRank": 14,
+      "tableSize": 18,
+      "opponent": "Elversberg",
+      "opponentRank": 4,
+      "kickoff": "2026-09-20T15:30:00Z",
+      "venue": "home",
+      "form": [
+        "D",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 66
     }
   ]
 }
