@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:25:40.899Z",
+  "generatedAt": "2026-09-12T14:12:18.714Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,114 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Dresden",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Braunschweig",
-      "opponentRank": 14,
-      "kickoff": "2026-09-12T12:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 80
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Bolton",
-      "bottomRank": 21,
-      "tableSize": 24,
-      "opponent": "Cardiff",
-      "opponentRank": 20,
-      "kickoff": "2026-09-12T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Derby",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Birmingham",
-      "opponentRank": 15,
-      "kickoff": "2026-09-12T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "League One",
-      "bottomTeam": "Wycombe",
-      "bottomRank": 23,
-      "tableSize": 24,
-      "opponent": "Leyton Orient",
-      "opponentRank": 10,
-      "kickoff": "2026-09-12T12:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 83
-    },
-    {
-      "league": "League Two",
-      "bottomTeam": "Crawley Town",
-      "bottomRank": 21,
-      "tableSize": 24,
-      "opponent": "Cheltenham",
-      "opponentRank": 8,
-      "kickoff": "2026-09-12T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "W",
-        "L"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Nantes",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Sochaux",
-      "opponentRank": 9,
-      "kickoff": "2026-09-12T13:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "D",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 79
-    },
     {
       "league": "Bundesliga",
       "bottomTeam": "Hoffenheim",
