@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:30:52.901Z",
+  "generatedAt": "2026-09-14T00:15:09.620Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,60 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Super League grecque",
-      "bottomTeam": "Levadeiakos",
-      "bottomRank": 14,
-      "tableSize": 14,
-      "opponent": "Kifisia",
-      "opponentRank": 12,
-      "kickoff": "2026-09-13T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 86
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Paris SG",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Brest",
-      "opponentRank": 7,
-      "kickoff": "2026-09-13T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 71
-    },
-    {
-      "league": "Liga Portugal",
-      "bottomTeam": "Famalicao",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Sp Lisbon",
-      "opponentRank": 3,
-      "kickoff": "2026-09-13T20:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "D",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 71
-    },
     {
       "league": "Serie A",
       "bottomTeam": "Parma",
