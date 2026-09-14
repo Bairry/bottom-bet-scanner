@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T16:58:59.398Z",
+  "generatedAt": "2026-09-14T20:58:32.877Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,42 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Serie A",
-      "bottomTeam": "Parma",
-      "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Como",
-      "opponentRank": 4,
-      "kickoff": "2026-09-14T17:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 77
-    },
-    {
-      "league": "Liga Portugal",
-      "bottomTeam": "Rio Ave",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Estrela",
-      "opponentRank": 6,
-      "kickoff": "2026-09-14T18:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 76
-    },
     {
       "league": "Liga",
       "bottomTeam": "Villarreal",
