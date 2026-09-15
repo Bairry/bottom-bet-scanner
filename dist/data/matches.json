@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T20:58:32.877Z",
+  "generatedAt": "2026-09-15T00:41:49.286Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,76 +25,40 @@
   "errors": [],
   "matches": [
     {
-      "league": "Liga",
-      "bottomTeam": "Villarreal",
-      "bottomRank": 17,
-      "tableSize": 20,
-      "opponent": "Betis",
-      "opponentRank": 4,
-      "kickoff": "2026-09-14T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Liga Portugal",
-      "bottomTeam": "Estoril",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Sp Braga",
-      "opponentRank": 8,
-      "kickoff": "2026-09-14T20:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 86
-    },
-    {
       "league": "Bundesliga",
       "bottomTeam": "Union Berlin",
-      "bottomRank": 15,
+      "bottomRank": 16,
       "tableSize": 18,
       "opponent": "Bayern Munich",
-      "opponentRank": 6,
+      "opponentRank": 4,
       "kickoff": "2026-09-18T18:30:00Z",
       "venue": "away",
       "form": [
         "L",
-        "D",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Bundesliga",
-      "bottomTeam": "Schalke 04",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Elversberg",
-      "opponentRank": 4,
-      "kickoff": "2026-09-20T15:30:00Z",
-      "venue": "home",
-      "form": [
-        "D",
         "L",
         "D",
         "D",
         "D"
       ],
-      "vulnerability": 66
+      "vulnerability": 81
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Paderborn",
+      "bottomRank": 15,
+      "tableSize": 18,
+      "opponent": "Hoffenheim",
+      "opponentRank": 13,
+      "kickoff": "2026-09-20T17:30:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 69
     }
   ]
 }
