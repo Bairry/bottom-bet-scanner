@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T15:35:55.636Z",
+  "generatedAt": "2026-09-15T20:17:03.261Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,60 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Liga",
-      "bottomTeam": "Vallecano",
-      "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Espanol",
-      "opponentRank": 8,
-      "kickoff": "2026-09-15T18:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 70
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Valencia",
-      "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Alaves",
-      "opponentRank": 4,
-      "kickoff": "2026-09-15T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 95
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Ajax",
-      "opponentRank": 5,
-      "kickoff": "2026-09-15T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 88
-    },
     {
       "league": "National League",
       "bottomTeam": "Woking",
