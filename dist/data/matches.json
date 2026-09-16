@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:17:03.261Z",
+  "generatedAt": "2026-09-16T00:26:16.115Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,132 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "National League",
-      "bottomTeam": "Woking",
-      "bottomRank": 20,
-      "tableSize": 24,
-      "opponent": "Boston Utd",
-      "opponentRank": 18,
-      "kickoff": "2026-09-15T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "D",
-        "L",
-        "W"
-      ],
-      "vulnerability": 67
-    },
-    {
-      "league": "National League",
-      "bottomTeam": "Solihull",
-      "bottomRank": 24,
-      "tableSize": 24,
-      "opponent": "Barrow",
-      "opponentRank": 21,
-      "kickoff": "2026-09-15T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 84
-    },
-    {
-      "league": "National League",
-      "bottomTeam": "Tamworth",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Southend",
-      "opponentRank": 6,
-      "kickoff": "2026-09-15T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "W",
-        "L"
-      ],
-      "vulnerability": 83
-    },
-    {
-      "league": "Premiership écossaise",
-      "bottomTeam": "Falkirk",
-      "bottomRank": 11,
-      "tableSize": 12,
-      "opponent": "Hearts",
-      "opponentRank": 3,
-      "kickoff": "2026-09-15T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Premiership écossaise",
-      "bottomTeam": "Kilmarnock",
-      "bottomRank": 12,
-      "tableSize": 12,
-      "opponent": "Hibernian",
-      "opponentRank": 8,
-      "kickoff": "2026-09-15T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 92
-    },
-    {
-      "league": "Premiership écossaise",
-      "bottomTeam": "Aberdeen",
-      "bottomRank": 10,
-      "tableSize": 12,
-      "opponent": "Motherwell",
-      "opponentRank": 5,
-      "kickoff": "2026-09-15T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "W"
-      ],
-      "vulnerability": 77
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Elche",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Real Madrid",
-      "opponentRank": 2,
-      "kickoff": "2026-09-15T20:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 83
-    },
     {
       "league": "National League",
       "bottomTeam": "Gateshead",
@@ -221,6 +95,24 @@
         "D"
       ],
       "vulnerability": 81
+    },
+    {
+      "league": "Premier League",
+      "bottomTeam": "Fulham",
+      "bottomRank": 18,
+      "tableSize": 20,
+      "opponent": "Man United",
+      "opponentRank": 13,
+      "kickoff": "2026-09-20T15:30:00Z",
+      "venue": "home",
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 77
     },
     {
       "league": "Bundesliga",
