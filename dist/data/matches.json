@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:01:53.152Z",
+  "generatedAt": "2026-09-18T19:41:12.662Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,60 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Darmstadt",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Wolfsburg",
-      "opponentRank": 5,
-      "kickoff": "2026-09-18T17:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Süper Lig",
-      "bottomTeam": "Konyaspor",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Kasimpasa",
-      "opponentRank": 4,
-      "kickoff": "2026-09-18T18:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 85
-    },
-    {
-      "league": "Bundesliga",
-      "bottomTeam": "Union Berlin",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Bayern Munich",
-      "opponentRank": 4,
-      "kickoff": "2026-09-18T18:30:00Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 81
-    },
     {
       "league": "Eredivisie",
       "bottomTeam": "Zwolle",
