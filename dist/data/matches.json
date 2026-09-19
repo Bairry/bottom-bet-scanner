@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:41:12.662Z",
+  "generatedAt": "2026-09-19T00:24:34.084Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,186 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Zwolle",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Groningen",
-      "opponentRank": 9,
-      "kickoff": "2026-09-18T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "W",
-        "L"
-      ],
-      "vulnerability": 79
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Clermont",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Grenoble",
-      "opponentRank": 12,
-      "kickoff": "2026-09-18T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "L"
-      ],
-      "vulnerability": 72
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Laval",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Sochaux",
-      "opponentRank": 7,
-      "kickoff": "2026-09-18T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "W"
-      ],
-      "vulnerability": 80
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Pau FC",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Dunkerque",
-      "opponentRank": 8,
-      "kickoff": "2026-09-18T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "L",
-        "W"
-      ],
-      "vulnerability": 70
-    },
-    {
-      "league": "Bundesliga",
-      "bottomTeam": "Union Berlin",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Bayern Munich",
-      "opponentRank": 4,
-      "kickoff": "2026-09-18T19:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Serie B",
-      "bottomTeam": "Juve Stabia",
-      "bottomRank": 17,
-      "tableSize": 20,
-      "opponent": "Cesena",
-      "opponentRank": 8,
-      "kickoff": "2026-09-18T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 68
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Albacete",
-      "bottomRank": 21,
-      "tableSize": 22,
-      "opponent": "Cordoba",
-      "opponentRank": 20,
-      "kickoff": "2026-09-18T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 82
-    },
-    {
-      "league": "National League",
-      "bottomTeam": "Solihull",
-      "bottomRank": 24,
-      "tableSize": 24,
-      "opponent": "Yeovil",
-      "opponentRank": 10,
-      "kickoff": "2026-09-18T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 85
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Monza",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Sassuolo",
-      "opponentRank": 9,
-      "kickoff": "2026-09-18T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Elche",
-      "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Espanol",
-      "opponentRank": 8,
-      "kickoff": "2026-09-18T20:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 93
-    },
     {
       "league": "2. Bundesliga",
       "bottomTeam": "Holstein Kiel",
@@ -1427,6 +1247,24 @@
         "L"
       ],
       "vulnerability": 78
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Union Berlin",
+      "bottomRank": 16,
+      "tableSize": 18,
+      "opponent": "Elversberg",
+      "opponentRank": 6,
+      "kickoff": "2026-10-10T13:30:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 75
     }
   ]
 }
