@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T09:35:17.260Z",
+  "generatedAt": "2026-09-19T14:29:31.038Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,132 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Holstein Kiel",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Osnabruck",
-      "opponentRank": 10,
-      "kickoff": "2026-09-19T12:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Premier League",
-      "bottomTeam": "Aston Villa",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Tottenham",
-      "opponentRank": 17,
-      "kickoff": "2026-09-19T12:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 84
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Cardiff",
-      "bottomRank": 21,
-      "tableSize": 24,
-      "opponent": "Charlton",
-      "opponentRank": 7,
-      "kickoff": "2026-09-19T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "League Two",
-      "bottomTeam": "Rochdale",
-      "bottomRank": 24,
-      "tableSize": 24,
-      "opponent": "Oldham",
-      "opponentRank": 14,
-      "kickoff": "2026-09-19T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "League Two",
-      "bottomTeam": "Port Vale",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Walsall",
-      "opponentRank": 5,
-      "kickoff": "2026-09-19T12:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 79
-    },
-    {
-      "league": "National League",
-      "bottomTeam": "Tamworth",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Wealdstone",
-      "opponentRank": 19,
-      "kickoff": "2026-09-19T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "W"
-      ],
-      "vulnerability": 73
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Nantes",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Boulogne",
-      "opponentRank": 14,
-      "kickoff": "2026-09-19T13:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "W",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 80
-    },
     {
       "league": "Serie A",
       "bottomTeam": "Bologna",
@@ -691,6 +565,24 @@
       "vulnerability": 78
     },
     {
+      "league": "Serie A",
+      "bottomTeam": "Venezia",
+      "bottomRank": 20,
+      "tableSize": 20,
+      "opponent": "Lazio",
+      "opponentRank": 4,
+      "kickoff": "2026-09-19T18:45:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 89
+    },
+    {
       "league": "2. Bundesliga",
       "bottomTeam": "Dresden",
       "bottomRank": 17,
@@ -869,6 +761,24 @@
         "L"
       ],
       "vulnerability": 71
+    },
+    {
+      "league": "Serie A",
+      "bottomTeam": "Genoa",
+      "bottomRank": 19,
+      "tableSize": 20,
+      "opponent": "Parma",
+      "opponentRank": 17,
+      "kickoff": "2026-09-20T13:00:00Z",
+      "venue": "away",
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 84
     },
     {
       "league": "Liga",
@@ -1265,6 +1175,24 @@
         "D"
       ],
       "vulnerability": 75
+    },
+    {
+      "league": "Serie A",
+      "bottomTeam": "Monza",
+      "bottomRank": 18,
+      "tableSize": 20,
+      "opponent": "Lazio",
+      "opponentRank": 4,
+      "kickoff": "2026-10-11T13:00:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 86
     }
   ]
 }
