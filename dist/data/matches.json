@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:21:24.139Z",
+  "generatedAt": "2026-09-20T00:10:41.860Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,132 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Dresden",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Hertha",
-      "opponentRank": 1,
-      "kickoff": "2026-09-19T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "W",
-        "L"
-      ],
-      "vulnerability": 79
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Venezia",
-      "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Lazio",
-      "opponentRank": 4,
-      "kickoff": "2026-09-19T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 89
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Le Mans",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Lorient",
-      "opponentRank": 8,
-      "kickoff": "2026-09-19T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "D",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 65
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Toulouse",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Le Havre",
-      "opponentRank": 16,
-      "kickoff": "2026-09-19T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 73
-    },
-    {
-      "league": "Belgique",
-      "bottomTeam": "Mechelen",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Lommel SK",
-      "opponentRank": 12,
-      "kickoff": "2026-09-19T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 82
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Cadiz",
-      "bottomRank": 19,
-      "tableSize": 22,
-      "opponent": "Girona",
-      "opponentRank": 13,
-      "kickoff": "2026-09-19T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 72
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "For Sittard",
-      "opponentRank": 7,
-      "kickoff": "2026-09-19T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 81
-    },
     {
       "league": "Eredivisie",
       "bottomTeam": "Utrecht",
@@ -599,6 +473,60 @@
         "D"
       ],
       "vulnerability": 75
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Hamburg",
+      "bottomRank": 18,
+      "tableSize": 18,
+      "opponent": "Hoffenheim",
+      "opponentRank": 13,
+      "kickoff": "2026-10-10T13:30:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ],
+      "vulnerability": 87
+    },
+    {
+      "league": "Premier League",
+      "bottomTeam": "Aston Villa",
+      "bottomRank": 19,
+      "tableSize": 20,
+      "opponent": "Brentford",
+      "opponentRank": 7,
+      "kickoff": "2026-10-10T14:00:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 81
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Burnley",
+      "bottomRank": 24,
+      "tableSize": 24,
+      "opponent": "Watford",
+      "opponentRank": 17,
+      "kickoff": "2026-10-10T14:00:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 87
     }
   ]
 }
