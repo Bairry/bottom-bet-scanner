@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:51:33.127Z",
+  "generatedAt": "2026-09-20T14:43:25.193Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,96 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Utrecht",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Feyenoord",
-      "opponentRank": 3,
-      "kickoff": "2026-09-20T11:15:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "D",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 73
-    },
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Bielefeld",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Heidenheim",
-      "opponentRank": 3,
-      "kickoff": "2026-09-20T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "W",
-        "L"
-      ],
-      "vulnerability": 71
-    },
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Hannover",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Bochum",
-      "opponentRank": 8,
-      "kickoff": "2026-09-20T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 71
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Malaga",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Getafe",
-      "opponentRank": 16,
-      "kickoff": "2026-09-20T13:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 80
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Bolton",
-      "bottomRank": 20,
-      "tableSize": 24,
-      "opponent": "Norwich",
-      "opponentRank": 14,
-      "kickoff": "2026-09-20T13:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 80
-    },
     {
       "league": "Premier League",
       "bottomTeam": "Crystal Palace",
