@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:30:35.919Z",
+  "generatedAt": "2026-09-21T00:18:45.645Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Liga",
-      "bottomTeam": "Valencia",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Sociedad",
-      "opponentRank": 11,
-      "kickoff": "2026-09-20T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 78
-    },
     {
       "league": "Bundesliga",
       "bottomTeam": "Union Berlin",
@@ -113,6 +95,24 @@
         "L"
       ],
       "vulnerability": 87
+    },
+    {
+      "league": "Premier League",
+      "bottomTeam": "Crystal Palace",
+      "bottomRank": 16,
+      "tableSize": 20,
+      "opponent": "Nott'm Forest",
+      "opponentRank": 11,
+      "kickoff": "2026-10-11T13:00:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 69
     }
   ]
 }
