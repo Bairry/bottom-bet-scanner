@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T15:50:57.530Z",
+  "generatedAt": "2026-09-24T20:32:28.146Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -133,24 +133,6 @@
       "vulnerability": 82
     },
     {
-      "league": "Belgique",
-      "bottomTeam": "Cercle Brugge",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Anderlecht",
-      "opponentRank": 5,
-      "kickoff": "2026-10-10T14:00:00Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 83
-    },
-    {
       "league": "Ligue 1",
       "bottomTeam": "Le Havre",
       "bottomRank": 18,
@@ -167,24 +149,6 @@
         "L"
       ],
       "vulnerability": 91
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Utrecht",
-      "opponentRank": 15,
-      "kickoff": "2026-10-11T10:15:00Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 86
     },
     {
       "league": "Premier League",
@@ -293,24 +257,6 @@
         "L"
       ],
       "vulnerability": 96
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Levante",
-      "bottomRank": 17,
-      "tableSize": 20,
-      "opponent": "Sevilla",
-      "opponentRank": 5,
-      "kickoff": "2026-10-12T19:00:00Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "W",
-        "D"
-      ],
-      "vulnerability": 69
     }
   ]
 }
