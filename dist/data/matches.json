@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:35:28.053Z",
+  "generatedAt": "2026-09-25T10:15:23.310Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,6 +24,222 @@
   ],
   "errors": [],
   "matches": [
+    {
+      "league": "LaLiga 2",
+      "bottomTeam": "Albacete",
+      "bottomRank": 21,
+      "tableSize": 22,
+      "opponent": "Girona",
+      "opponentRank": 8,
+      "kickoff": "2026-09-25T19:30:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 92
+    },
+    {
+      "league": "LaLiga 2",
+      "bottomTeam": "Ceuta",
+      "bottomRank": 22,
+      "tableSize": 22,
+      "opponent": "Sociedad B",
+      "opponentRank": 13,
+      "kickoff": "2026-09-26T13:00:00.000Z",
+      "venue": "home",
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "League One",
+      "bottomTeam": "Peterboro",
+      "bottomRank": 23,
+      "tableSize": 24,
+      "opponent": "Stockport",
+      "opponentRank": 9,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 88
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Newport County",
+      "bottomRank": 20,
+      "tableSize": 24,
+      "opponent": "Grimsby",
+      "opponentRank": 3,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "home",
+      "form": [
+        "D",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Accrington",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Swindon",
+      "opponentRank": 13,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "away",
+      "form": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "National League",
+      "bottomTeam": "Tamworth",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Aldershot",
+      "opponentRank": 8,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "away",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 80
+    },
+    {
+      "league": "National League",
+      "bottomTeam": "Scunthorpe",
+      "bottomRank": 22,
+      "tableSize": 24,
+      "opponent": "Hartlepool",
+      "opponentRank": 19,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "vulnerability": 77
+    },
+    {
+      "league": "National League",
+      "bottomTeam": "Solihull",
+      "bottomRank": 24,
+      "tableSize": 24,
+      "opponent": "Boreham Wood",
+      "opponentRank": 1,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 82
+    },
+    {
+      "league": "National League",
+      "bottomTeam": "Gateshead",
+      "bottomRank": 23,
+      "tableSize": 24,
+      "opponent": "Wealdstone",
+      "opponentRank": 20,
+      "kickoff": "2026-09-26T15:00:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 88
+    },
+    {
+      "league": "LaLiga 2",
+      "bottomTeam": "Andorra",
+      "bottomRank": 20,
+      "tableSize": 22,
+      "opponent": "Granada",
+      "opponentRank": 14,
+      "kickoff": "2026-09-26T15:15:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 91
+    },
+    {
+      "league": "LaLiga 2",
+      "bottomTeam": "Cadiz",
+      "bottomRank": 19,
+      "tableSize": 22,
+      "opponent": "Tenerife",
+      "opponentRank": 11,
+      "kickoff": "2026-09-26T17:30:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ],
+      "vulnerability": 82
+    },
+    {
+      "league": "LaLiga 2",
+      "bottomTeam": "Valladolid",
+      "bottomRank": 18,
+      "tableSize": 22,
+      "opponent": "Cordoba",
+      "opponentRank": 16,
+      "kickoff": "2026-09-27T13:00:00.000Z",
+      "venue": "home",
+      "form": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "vulnerability": 64
+    },
     {
       "league": "Bundesliga",
       "bottomTeam": "Hamburg",
