@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:36:11.075Z",
+  "generatedAt": "2026-09-27T15:41:05.872Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Valladolid",
-      "bottomRank": 18,
-      "tableSize": 22,
-      "opponent": "Cordoba",
-      "opponentRank": 16,
-      "kickoff": "2026-09-27T13:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "W",
-        "D",
-        "L"
-      ],
-      "vulnerability": 64
-    },
     {
       "league": "Bundesliga",
       "bottomTeam": "Hamburg",
