@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T21:51:29.960Z",
+  "generatedAt": "2026-10-02T01:42:56.547Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -41,6 +41,24 @@
         "D"
       ],
       "vulnerability": 77
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Stuttgart",
+      "bottomRank": 15,
+      "tableSize": 18,
+      "opponent": "Paderborn",
+      "opponentRank": 12,
+      "kickoff": "2026-10-10T13:30:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "vulnerability": 76
     },
     {
       "league": "Bundesliga",
