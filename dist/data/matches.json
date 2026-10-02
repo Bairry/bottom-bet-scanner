@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:39.981Z",
+  "generatedAt": "2026-10-02T21:21:33.559Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Eldense",
-      "bottomRank": 19,
-      "tableSize": 22,
-      "opponent": "Oviedo",
-      "opponentRank": 8,
-      "kickoff": "2026-10-02T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "D",
-        "L"
-      ],
-      "vulnerability": 73
-    },
     {
       "league": "LaLiga 2",
       "bottomTeam": "Albacete",
@@ -187,6 +169,42 @@
       "vulnerability": 74
     },
     {
+      "league": "Ligue 1",
+      "bottomTeam": "Lens",
+      "bottomRank": 15,
+      "tableSize": 18,
+      "opponent": "Lyon",
+      "opponentRank": 2,
+      "kickoff": "2026-10-09T18:45:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "Serie A",
+      "bottomTeam": "Genoa",
+      "bottomRank": 19,
+      "tableSize": 20,
+      "opponent": "Fiorentina",
+      "opponentRank": 17,
+      "kickoff": "2026-10-10T13:00:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 82
+    },
+    {
       "league": "Bundesliga",
       "bottomTeam": "Hamburg",
       "bottomRank": 16,
@@ -277,22 +295,148 @@
       "vulnerability": 82
     },
     {
-      "league": "Premier League",
-      "bottomTeam": "Crystal Palace",
+      "league": "Belgique",
+      "bottomTeam": "Cercle Brugge",
       "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Nott'm Forest",
-      "opponentRank": 13,
-      "kickoff": "2026-10-11T13:00:00Z",
+      "tableSize": 18,
+      "opponent": "Anderlecht",
+      "opponentRank": 5,
+      "kickoff": "2026-10-10T14:00:00Z",
       "venue": "home",
       "form": [
+        "L",
         "D",
         "L",
-        "W",
         "L",
         "L"
       ],
-      "vulnerability": 68
+      "vulnerability": 83
+    },
+    {
+      "league": "Belgique",
+      "bottomTeam": "Kortrijk",
+      "bottomRank": 18,
+      "tableSize": 18,
+      "opponent": "Genk",
+      "opponentRank": 9,
+      "kickoff": "2026-10-10T18:45:00Z",
+      "venue": "away",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 89
+    },
+    {
+      "league": "Eredivisie",
+      "bottomTeam": "Willem II",
+      "bottomRank": 18,
+      "tableSize": 18,
+      "opponent": "Utrecht",
+      "opponentRank": 15,
+      "kickoff": "2026-10-11T10:15:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "D"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "Serie A",
+      "bottomTeam": "Bologna",
+      "bottomRank": 18,
+      "tableSize": 20,
+      "opponent": "Lecce",
+      "opponentRank": 12,
+      "kickoff": "2026-10-11T13:00:00Z",
+      "venue": "away",
+      "form": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "vulnerability": 83
+    },
+    {
+      "league": "Ligue 1",
+      "bottomTeam": "Nice",
+      "bottomRank": 14,
+      "tableSize": 18,
+      "opponent": "Strasbourg",
+      "opponentRank": 8,
+      "kickoff": "2026-10-11T13:00:00Z",
+      "venue": "home",
+      "form": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "D"
+      ],
+      "vulnerability": 65
+    },
+    {
+      "league": "Ligue 1",
+      "bottomTeam": "Marseille",
+      "bottomRank": 17,
+      "tableSize": 18,
+      "opponent": "Troyes",
+      "opponentRank": 16,
+      "kickoff": "2026-10-11T18:45:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "vulnerability": 83
+    },
+    {
+      "league": "Serie A",
+      "bottomTeam": "Venezia",
+      "bottomRank": 20,
+      "tableSize": 20,
+      "opponent": "Atalanta",
+      "opponentRank": 11,
+      "kickoff": "2026-10-12T16:30:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 96
+    },
+    {
+      "league": "Liga",
+      "bottomTeam": "Levante",
+      "bottomRank": 17,
+      "tableSize": 20,
+      "opponent": "Sevilla",
+      "opponentRank": 5,
+      "kickoff": "2026-10-12T19:00:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "W",
+        "D"
+      ],
+      "vulnerability": 69
     }
   ]
 }
