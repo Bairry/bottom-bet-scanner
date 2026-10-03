@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:27:30.559Z",
+  "generatedAt": "2026-10-03T15:09:46.851Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Albacete",
-      "bottomRank": 22,
-      "tableSize": 22,
-      "opponent": "Eibar",
-      "opponentRank": 2,
-      "kickoff": "2026-10-03T13:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 90
-    },
     {
       "league": "League Two",
       "bottomTeam": "Exeter",
