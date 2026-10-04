@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:49:57.139Z",
+  "generatedAt": "2026-10-04T20:13:21.124Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Ceuta",
-      "bottomRank": 21,
-      "tableSize": 22,
-      "opponent": "Castellon",
-      "opponentRank": 1,
-      "kickoff": "2026-10-04T17:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "D",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 86
-    },
     {
       "league": "LaLiga 2",
       "bottomTeam": "Cordoba",
