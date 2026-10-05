@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:13:21.124Z",
+  "generatedAt": "2026-10-05T01:00:36.032Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -27,10 +27,10 @@
     {
       "league": "LaLiga 2",
       "bottomTeam": "Cordoba",
-      "bottomRank": 18,
+      "bottomRank": 20,
       "tableSize": 22,
       "opponent": "Tenerife",
-      "opponentRank": 10,
+      "opponentRank": 12,
       "kickoff": "2026-10-05T19:30:00.000Z",
       "venue": "home",
       "form": [
@@ -40,7 +40,7 @@
         "L",
         "L"
       ],
-      "vulnerability": 74
+      "vulnerability": 78
     },
     {
       "league": "Bundesliga",
