@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:57:01.563Z",
+  "generatedAt": "2026-10-09T21:44:06.716Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,114 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Holstein Kiel",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Braunschweig",
-      "opponentRank": 15,
-      "kickoff": "2026-10-09T17:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 77
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Laval",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Pau FC",
-      "opponentRank": 10,
-      "kickoff": "2026-10-09T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 88
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Boulogne",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Sochaux",
-      "opponentRank": 8,
-      "kickoff": "2026-10-09T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Serie B",
-      "bottomTeam": "Sampdoria",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Avellino",
-      "opponentRank": 7,
-      "kickoff": "2026-10-09T19:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Lens",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Lyon",
-      "opponentRank": 2,
-      "kickoff": "2026-10-09T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "W"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Malaga",
-      "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Espanol",
-      "opponentRank": 15,
-      "kickoff": "2026-10-09T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "L"
-      ],
-      "vulnerability": 81
-    },
     {
       "league": "Süper Lig",
       "bottomTeam": "Genclerbirligi",
