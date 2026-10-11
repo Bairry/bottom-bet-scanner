@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T20:35:26.972Z",
+  "generatedAt": "2026-10-11T01:02:30.207Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,60 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Belgique",
-      "bottomTeam": "Kortrijk",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Genk",
-      "opponentRank": 9,
-      "kickoff": "2026-10-10T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 89
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Celta B",
-      "bottomRank": 18,
-      "tableSize": 22,
-      "opponent": "Sociedad B",
-      "opponentRank": 17,
-      "kickoff": "2026-10-10T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "W"
-      ],
-      "vulnerability": 68
-    },
-    {
-      "league": "Liga Portugal",
-      "bottomTeam": "Estoril",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Academico Viseu",
-      "opponentRank": 7,
-      "kickoff": "2026-10-10T20:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 94
-    },
     {
       "league": "Eredivisie",
       "bottomTeam": "Willem II",
@@ -635,6 +581,24 @@
         "D"
       ],
       "vulnerability": 69
+    },
+    {
+      "league": "Bundesliga",
+      "bottomTeam": "Hamburg",
+      "bottomRank": 16,
+      "tableSize": 18,
+      "opponent": "Stuttgart",
+      "opponentRank": 15,
+      "kickoff": "2026-10-17T13:30:00Z",
+      "venue": "home",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 71
     }
   ]
 }
