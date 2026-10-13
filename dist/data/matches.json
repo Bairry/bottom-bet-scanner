@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:39:10.593Z",
+  "generatedAt": "2026-10-13T12:45:59.031Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,6 +24,78 @@
   ],
   "errors": [],
   "matches": [
+    {
+      "league": "Championship",
+      "bottomTeam": "Burnley",
+      "bottomRank": 22,
+      "tableSize": 24,
+      "opponent": "Charlton",
+      "opponentRank": 12,
+      "kickoff": "2026-10-13T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "W",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 71
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Cardiff",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Watford",
+      "opponentRank": 20,
+      "kickoff": "2026-10-13T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 70
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Preston",
+      "bottomRank": 24,
+      "tableSize": 24,
+      "opponent": "Birmingham",
+      "opponentRank": 8,
+      "kickoff": "2026-10-13T20:00:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Derby",
+      "bottomRank": 23,
+      "tableSize": 24,
+      "opponent": "QPR",
+      "opponentRank": 7,
+      "kickoff": "2026-10-14T19:45:00.000Z",
+      "venue": "away",
+      "form": [
+        "D",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 88
+    },
     {
       "league": "Ligue 1",
       "bottomTeam": "Toulouse",
@@ -77,24 +149,6 @@
         "D"
       ],
       "vulnerability": 78
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Elche",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Villarreal",
-      "opponentRank": 12,
-      "kickoff": "2026-10-17T14:15:00Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 75
     },
     {
       "league": "Serie A",
