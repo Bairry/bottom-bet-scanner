@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:51:25.629Z",
+  "generatedAt": "2026-10-14T20:44:47.192Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -77,60 +77,6 @@
         "D"
       ],
       "vulnerability": 78
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Genoa",
-      "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Roma",
-      "opponentRank": 3,
-      "kickoff": "2026-10-17T18:45:00Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Monza",
-      "bottomRank": 17,
-      "tableSize": 20,
-      "opponent": "Cagliari",
-      "opponentRank": 4,
-      "kickoff": "2026-10-19T16:30:00Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Parma",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Torino",
-      "opponentRank": 12,
-      "kickoff": "2026-10-19T18:45:00Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 73
     }
   ]
 }
