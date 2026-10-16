@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:59:48.264Z",
+  "generatedAt": "2026-10-16T15:23:50.158Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -421,24 +421,6 @@
       "vulnerability": 75
     },
     {
-      "league": "Liga",
-      "bottomTeam": "Elche",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Villarreal",
-      "opponentRank": 12,
-      "kickoff": "2026-10-17T14:15:00Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 75
-    },
-    {
       "league": "Bundesliga",
       "bottomTeam": "Union Berlin",
       "bottomRank": 16,
@@ -815,42 +797,6 @@
         "D"
       ],
       "vulnerability": 94
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Telstar",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Feyenoord",
-      "opponentRank": 1,
-      "kickoff": "2026-10-17T18:00:00Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Sparta Rotterdam",
-      "opponentRank": 14,
-      "kickoff": "2026-10-17T19:00:00Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 91
     },
     {
       "league": "Eredivisie",
