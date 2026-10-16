@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T15:23:50.158Z",
+  "generatedAt": "2026-10-16T19:59:08.043Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Holstein Kiel",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Hertha",
-      "opponentRank": 1,
-      "kickoff": "2026-10-16T17:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 86
-    },
     {
       "league": "Ligue 2",
       "bottomTeam": "Boulogne",
@@ -959,6 +941,24 @@
         "L"
       ],
       "vulnerability": 82
+    },
+    {
+      "league": "Premier League",
+      "bottomTeam": "Bournemouth",
+      "bottomRank": 18,
+      "tableSize": 20,
+      "opponent": "Sunderland",
+      "opponentRank": 17,
+      "kickoff": "2026-10-18T13:00:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 71
     },
     {
       "league": "Liga",
