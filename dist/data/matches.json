@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:27:25.408Z",
+  "generatedAt": "2026-10-18T00:05:30.907Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,96 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Telstar",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Feyenoord",
-      "opponentRank": 1,
-      "kickoff": "2026-10-17T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Genoa",
-      "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Roma",
-      "opponentRank": 3,
-      "kickoff": "2026-10-17T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Troyes",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Lens",
-      "opponentRank": 10,
-      "kickoff": "2026-10-17T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "W"
-      ],
-      "vulnerability": 80
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Valencia",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Ath Bilbao",
-      "opponentRank": 10,
-      "kickoff": "2026-10-17T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 76
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Sparta Rotterdam",
-      "opponentRank": 14,
-      "kickoff": "2026-10-17T20:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 91
-    },
     {
       "league": "Eredivisie",
       "bottomTeam": "Zwolle",
