@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T19:27:44.203Z",
+  "generatedAt": "2026-10-19T00:13:50.092Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Serie B",
-      "bottomTeam": "Sampdoria",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Arezzo",
-      "opponentRank": 12,
-      "kickoff": "2026-10-18T18:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 80
-    },
     {
       "league": "Serie A",
       "bottomTeam": "Monza",
