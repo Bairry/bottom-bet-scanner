@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:40:32.012Z",
+  "generatedAt": "2026-10-20T20:39:41.930Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -221,6 +221,24 @@
         "D"
       ],
       "vulnerability": 71
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Watford",
+      "bottomRank": 20,
+      "tableSize": 24,
+      "opponent": "Wolves",
+      "opponentRank": 9,
+      "kickoff": "2026-10-24T14:00:00Z",
+      "venue": "away",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 82
     }
   ]
 }
