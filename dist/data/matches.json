@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:06:55.023Z",
+  "generatedAt": "2026-10-20T15:40:32.012Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,22 +25,202 @@
   "errors": [],
   "matches": [
     {
-      "league": "Championship",
-      "bottomTeam": "Watford",
+      "league": "League One",
+      "bottomTeam": "Blackpool",
+      "bottomRank": 20,
+      "tableSize": 24,
+      "opponent": "Milton Keynes Dons",
+      "opponentRank": 18,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 77
+    },
+    {
+      "league": "League One",
+      "bottomTeam": "Bromley",
       "bottomRank": 22,
       "tableSize": 24,
-      "opponent": "Wolves",
-      "opponentRank": 10,
-      "kickoff": "2026-10-24T14:00:00Z",
+      "opponent": "Leicester",
+      "opponentRank": 14,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "League One",
+      "bottomTeam": "Barnsley",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Luton",
+      "opponentRank": 16,
+      "kickoff": "2026-10-20T19:45:00.000Z",
       "venue": "away",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "League One",
+      "bottomTeam": "Notts County",
+      "bottomRank": 23,
+      "tableSize": 24,
+      "opponent": "Sheffield Weds",
+      "opponentRank": 6,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "home",
       "form": [
         "L",
         "L",
         "L",
         "L",
+        "D"
+      ],
+      "vulnerability": 87
+    },
+    {
+      "league": "League One",
+      "bottomTeam": "Wigan",
+      "bottomRank": 24,
+      "tableSize": 24,
+      "opponent": "Oxford",
+      "opponentRank": 8,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "away",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Colchester",
+      "bottomRank": 20,
+      "tableSize": 24,
+      "opponent": "Chesterfield",
+      "opponentRank": 7,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "away",
+      "form": [
+        "D",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "vulnerability": 74
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Crawley Town",
+      "bottomRank": 24,
+      "tableSize": 24,
+      "opponent": "Shrewsbury",
+      "opponentRank": 14,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 86
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Northampton",
+      "bottomRank": 22,
+      "tableSize": 24,
+      "opponent": "Tranmere",
+      "opponentRank": 17,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "W",
+        "D",
+        "L",
+        "L",
         "W"
       ],
-      "vulnerability": 85
+      "vulnerability": 65
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Rotherham",
+      "bottomRank": 23,
+      "tableSize": 24,
+      "opponent": "Newport County",
+      "opponentRank": 12,
+      "kickoff": "2026-10-20T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "W"
+      ],
+      "vulnerability": 77
+    },
+    {
+      "league": "League Two",
+      "bottomTeam": "Port Vale",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Gillingham",
+      "opponentRank": 6,
+      "kickoff": "2026-10-20T20:00:00.000Z",
+      "venue": "away",
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "vulnerability": 69
+    },
+    {
+      "league": "Liga",
+      "bottomTeam": "Levante",
+      "bottomRank": 17,
+      "tableSize": 20,
+      "opponent": "Ath Bilbao",
+      "opponentRank": 11,
+      "kickoff": "2026-10-21T19:00:00.000Z",
+      "venue": "home",
+      "form": [
+        "D",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
+      "vulnerability": 71
     }
   ]
 }
