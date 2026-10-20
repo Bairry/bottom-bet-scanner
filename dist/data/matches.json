@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:31:47.648Z",
+  "generatedAt": "2026-10-20T01:06:55.023Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,76 +25,22 @@
   "errors": [],
   "matches": [
     {
-      "league": "Serie A",
-      "bottomTeam": "Monza",
-      "bottomRank": 17,
-      "tableSize": 20,
-      "opponent": "Cagliari",
-      "opponentRank": 4,
-      "kickoff": "2026-10-19T17:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Parma",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Torino",
-      "opponentRank": 12,
-      "kickoff": "2026-10-19T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 73
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Rodez",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Montpellier",
-      "opponentRank": 3,
-      "kickoff": "2026-10-19T19:45:00.000Z",
-      "venue": "home",
+      "league": "Championship",
+      "bottomTeam": "Watford",
+      "bottomRank": 22,
+      "tableSize": 24,
+      "opponent": "Wolves",
+      "opponentRank": 10,
+      "kickoff": "2026-10-24T14:00:00Z",
+      "venue": "away",
       "form": [
         "L",
         "L",
         "L",
         "L",
-        "D"
+        "W"
       ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Premier League",
-      "bottomTeam": "Tottenham",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Coventry",
-      "opponentRank": 14,
-      "kickoff": "2026-10-19T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "D",
-        "L"
-      ],
-      "vulnerability": 75
+      "vulnerability": 85
     }
   ]
 }
