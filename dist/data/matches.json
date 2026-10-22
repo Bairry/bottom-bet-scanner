@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:59:06.688Z",
+  "generatedAt": "2026-10-22T15:55:00.105Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,22 +25,22 @@
   "errors": [],
   "matches": [
     {
-      "league": "Liga",
-      "bottomTeam": "Levante",
-      "bottomRank": 17,
+      "league": "Serie A",
+      "bottomTeam": "Venezia",
+      "bottomRank": 20,
       "tableSize": 20,
-      "opponent": "Ath Bilbao",
-      "opponentRank": 11,
-      "kickoff": "2026-10-21T19:00:00.000Z",
-      "venue": "home",
+      "opponent": "Genoa",
+      "opponentRank": 17,
+      "kickoff": "2026-10-25T14:00:00Z",
+      "venue": "away",
       "form": [
-        "D",
-        "D",
+        "W",
         "L",
         "L",
-        "D"
+        "L",
+        "L"
       ],
-      "vulnerability": 71
+      "vulnerability": 86
     }
   ]
 }
