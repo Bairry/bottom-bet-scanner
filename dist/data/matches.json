@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:55:00.105Z",
+  "generatedAt": "2026-10-22T20:35:35.669Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,13 +25,13 @@
   "errors": [],
   "matches": [
     {
-      "league": "Serie A",
-      "bottomTeam": "Venezia",
+      "league": "Championship",
+      "bottomTeam": "Watford",
       "bottomRank": 20,
-      "tableSize": 20,
-      "opponent": "Genoa",
-      "opponentRank": 17,
-      "kickoff": "2026-10-25T14:00:00Z",
+      "tableSize": 24,
+      "opponent": "Wolves",
+      "opponentRank": 8,
+      "kickoff": "2026-10-24T14:00:00Z",
       "venue": "away",
       "form": [
         "W",
@@ -40,7 +40,7 @@
         "L",
         "L"
       ],
-      "vulnerability": 86
+      "vulnerability": 82
     }
   ]
 }
