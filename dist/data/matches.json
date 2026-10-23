@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:46:25.263Z",
+  "generatedAt": "2026-10-23T20:30:08.627Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,114 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Bochum",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Wolfsburg",
-      "opponentRank": 3,
-      "kickoff": "2026-10-23T17:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "W"
-      ],
-      "vulnerability": 76
-    },
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Darmstadt",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "St Pauli",
-      "opponentRank": 7,
-      "kickoff": "2026-10-23T17:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "W",
-        "L"
-      ],
-      "vulnerability": 73
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Telstar",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Go Ahead Eagles",
-      "opponentRank": 9,
-      "kickoff": "2026-10-23T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 83
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Clermont",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Guingamp",
-      "opponentRank": 13,
-      "kickoff": "2026-10-23T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
-      "vulnerability": 68
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Laval",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Nancy",
-      "opponentRank": 5,
-      "kickoff": "2026-10-23T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 90
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Grenoble",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Pau FC",
-      "opponentRank": 6,
-      "kickoff": "2026-10-23T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "W",
-        "L"
-      ],
-      "vulnerability": 78
-    },
     {
       "league": "Bundesliga",
       "bottomTeam": "M'gladbach",
