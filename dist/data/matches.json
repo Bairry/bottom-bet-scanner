@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:32:20.523Z",
+  "generatedAt": "2026-10-25T00:22:04.356Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,78 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Serie A",
-      "bottomTeam": "Parma",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Lazio",
-      "opponentRank": 2,
-      "kickoff": "2026-10-24T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 85
-    },
-    {
-      "league": "Belgique",
-      "bottomTeam": "RAAL La Louviere",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Waregem",
-      "opponentRank": 8,
-      "kickoff": "2026-10-24T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Nantes",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "St Etienne",
-      "opponentRank": 1,
-      "kickoff": "2026-10-24T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "W",
-        "L",
-        "W"
-      ],
-      "vulnerability": 69
-    },
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Den Haag",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Heerenveen",
-      "opponentRank": 8,
-      "kickoff": "2026-10-24T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "W",
-        "D",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 72
-    },
     {
       "league": "Serie A",
       "bottomTeam": "Fiorentina",
@@ -527,6 +455,24 @@
         "L"
       ],
       "vulnerability": 63
+    },
+    {
+      "league": "Premier League",
+      "bottomTeam": "Fulham",
+      "bottomRank": 18,
+      "tableSize": 20,
+      "opponent": "Crystal Palace",
+      "opponentRank": 14,
+      "kickoff": "2026-10-28T19:45:00Z",
+      "venue": "home",
+      "form": [
+        "W",
+        "L",
+        "D",
+        "D",
+        "L"
+      ],
+      "vulnerability": 68
     }
   ]
 }
