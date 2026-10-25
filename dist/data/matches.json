@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:52:33.664Z",
+  "generatedAt": "2026-10-25T14:58:11.192Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,96 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Serie A",
-      "bottomTeam": "Fiorentina",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Inter",
-      "opponentRank": 1,
-      "kickoff": "2026-10-25T11:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "W",
-        "L"
-      ],
-      "vulnerability": 83
-    },
-    {
-      "league": "Premiership écossaise",
-      "bottomTeam": "Hibernian",
-      "bottomRank": 12,
-      "tableSize": 12,
-      "opponent": "Celtic",
-      "opponentRank": 1,
-      "kickoff": "2026-10-25T12:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 90
-    },
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Braunschweig",
-      "bottomRank": 15,
-      "tableSize": 18,
-      "opponent": "Hannover",
-      "opponentRank": 14,
-      "kickoff": "2026-10-25T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 69
-    },
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Holstein Kiel",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Dresden",
-      "opponentRank": 11,
-      "kickoff": "2026-10-25T12:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "D"
-      ],
-      "vulnerability": 78
-    },
-    {
-      "league": "Süper Lig",
-      "bottomTeam": "Konyaspor",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Genclerbirligi",
-      "opponentRank": 15,
-      "kickoff": "2026-10-25T13:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "W",
-        "L"
-      ],
-      "vulnerability": 67
-    },
     {
       "league": "Premiership écossaise",
       "bottomTeam": "Motherwell",
