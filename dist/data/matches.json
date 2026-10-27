@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:25:34.742Z",
+  "generatedAt": "2026-10-27T01:30:49.780Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,40 +25,22 @@
   "errors": [],
   "matches": [
     {
-      "league": "LaLiga 2",
-      "bottomTeam": "Andorra",
-      "bottomRank": 18,
-      "tableSize": 22,
-      "opponent": "Burgos",
-      "opponentRank": 7,
-      "kickoff": "2026-10-26T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "D",
-        "W",
-        "L"
-      ],
-      "vulnerability": 63
-    },
-    {
       "league": "Premier League",
-      "bottomTeam": "Fulham",
-      "bottomRank": 18,
+      "bottomTeam": "Crystal Palace",
+      "bottomRank": 17,
       "tableSize": 20,
-      "opponent": "Crystal Palace",
-      "opponentRank": 14,
+      "opponent": "Fulham",
+      "opponentRank": 15,
       "kickoff": "2026-10-28T19:45:00Z",
-      "venue": "home",
+      "venue": "away",
       "form": [
-        "W",
         "L",
-        "D",
+        "L",
+        "W",
         "D",
         "L"
       ],
-      "vulnerability": 68
+      "vulnerability": 76
     },
     {
       "league": "Premier League",
@@ -70,31 +52,13 @@
       "kickoff": "2026-10-28T19:45:00Z",
       "venue": "home",
       "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 88
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Burnley",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Portsmouth",
-      "opponentRank": 13,
-      "kickoff": "2026-10-31T15:00:00Z",
-      "venue": "home",
-      "form": [
-        "L",
         "D",
-        "W",
-        "D",
+        "L",
+        "L",
+        "L",
         "L"
       ],
-      "vulnerability": 70
+      "vulnerability": 88
     }
   ]
 }
