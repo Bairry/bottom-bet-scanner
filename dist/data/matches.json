@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:51:18.673Z",
+  "generatedAt": "2026-10-29T11:34:29.298Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -27,10 +27,10 @@
     {
       "league": "Serie A",
       "bottomTeam": "Fiorentina",
-      "bottomRank": 18,
+      "bottomRank": 19,
       "tableSize": 20,
       "opponent": "Atalanta",
-      "opponentRank": 11,
+      "opponentRank": 12,
       "kickoff": "2026-10-29T19:45:00.000Z",
       "venue": "home",
       "form": [
@@ -40,7 +40,7 @@
         "D",
         "W"
       ],
-      "vulnerability": 74
+      "vulnerability": 76
     }
   ]
 }
