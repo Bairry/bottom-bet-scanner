@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:26:53.398Z",
+  "generatedAt": "2026-10-30T21:33:34.282Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,168 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Süper Lig",
-      "bottomTeam": "Konyaspor",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Galatasaray",
-      "opponentRank": 1,
-      "kickoff": "2026-10-30T17:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "W",
-        "L",
-        "D",
-        "D",
-        "W"
-      ],
-      "vulnerability": 59
-    },
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Bochum",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Cottbus",
-      "opponentRank": 11,
-      "kickoff": "2026-10-30T17:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 77
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Le Havre",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Paris SG",
-      "opponentRank": 1,
-      "kickoff": "2026-10-30T18:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 90
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Grenoble",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Dijon",
-      "opponentRank": 9,
-      "kickoff": "2026-10-30T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "W"
-      ],
-      "vulnerability": 73
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Laval",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Boulogne",
-      "opponentRank": 13,
-      "kickoff": "2026-10-30T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "L"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Clermont",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Nantes",
-      "opponentRank": 15,
-      "kickoff": "2026-10-30T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "D"
-      ],
-      "vulnerability": 80
-    },
-    {
-      "league": "Ligue 2",
-      "bottomTeam": "Rodez",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Dunkerque",
-      "opponentRank": 10,
-      "kickoff": "2026-10-30T19:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 72
-    },
-    {
-      "league": "Liga",
-      "bottomTeam": "Espanol",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Villarreal",
-      "opponentRank": 10,
-      "kickoff": "2026-10-30T20:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 88
-    },
-    {
-      "league": "Liga Portugal",
-      "bottomTeam": "Casa Pia",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Sp Lisbon",
-      "opponentRank": 3,
-      "kickoff": "2026-10-30T20:15:00.000Z",
-      "venue": "home",
-      "form": [
-        "W",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 68
-    },
     {
       "league": "2. Bundesliga",
       "bottomTeam": "Darmstadt",
@@ -419,6 +257,24 @@
         "L"
       ],
       "vulnerability": 89
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Burnley",
+      "bottomRank": 22,
+      "tableSize": 24,
+      "opponent": "Portsmouth",
+      "opponentRank": 11,
+      "kickoff": "2026-10-31T15:00:00Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "W",
+        "D"
+      ],
+      "vulnerability": 71
     },
     {
       "league": "Championship",
