@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:33:34.282Z",
+  "generatedAt": "2026-10-31T01:38:12.184Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -257,24 +257,6 @@
         "L"
       ],
       "vulnerability": 89
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Burnley",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Portsmouth",
-      "opponentRank": 11,
-      "kickoff": "2026-10-31T15:00:00Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "D",
-        "W",
-        "D"
-      ],
-      "vulnerability": 71
     },
     {
       "league": "Championship",
