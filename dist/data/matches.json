@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:16:09.775Z",
+  "generatedAt": "2026-11-01T11:52:51.882Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Süper Lig",
-      "bottomTeam": "Eyupspor",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Amedspor",
-      "opponentRank": 2,
-      "kickoff": "2026-11-01T10:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 100
-    },
     {
       "league": "Eredivisie",
       "bottomTeam": "Den Haag",
