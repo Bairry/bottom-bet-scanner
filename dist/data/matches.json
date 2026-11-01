@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:28:40.338Z",
+  "generatedAt": "2026-11-01T01:16:09.775Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,78 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "2. Bundesliga",
-      "bottomTeam": "Karlsruhe",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Heidenheim",
-      "opponentRank": 6,
-      "kickoff": "2026-10-31T19:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Ligue 1",
-      "bottomTeam": "Troyes",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Le Mans",
-      "opponentRank": 15,
-      "kickoff": "2026-10-31T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 82
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Albacete",
-      "bottomRank": 22,
-      "tableSize": 22,
-      "opponent": "Sabadell",
-      "opponentRank": 10,
-      "kickoff": "2026-10-31T20:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 83
-    },
-    {
-      "league": "Liga Portugal",
-      "bottomTeam": "Estoril",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Porto",
-      "opponentRank": 1,
-      "kickoff": "2026-10-31T20:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 96
-    },
     {
       "league": "Süper Lig",
       "bottomTeam": "Eyupspor",
