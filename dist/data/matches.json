@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:33:52.875Z",
+  "generatedAt": "2026-11-02T13:35:37.663Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -30,7 +30,7 @@
       "bottomRank": 14,
       "tableSize": 14,
       "opponent": "Volos NFC",
-      "opponentRank": 12,
+      "opponentRank": 13,
       "kickoff": "2026-11-02T16:00:00.000Z",
       "venue": "home",
       "form": [
@@ -48,7 +48,7 @@
       "bottomRank": 16,
       "tableSize": 18,
       "opponent": "Alanyaspor",
-      "opponentRank": 11,
+      "opponentRank": 12,
       "kickoff": "2026-11-02T17:00:00.000Z",
       "venue": "home",
       "form": [
@@ -58,12 +58,12 @@
         "L",
         "L"
       ],
-      "vulnerability": 81
+      "vulnerability": 80
     },
     {
       "league": "Serie A",
       "bottomTeam": "Fiorentina",
-      "bottomRank": 18,
+      "bottomRank": 17,
       "tableSize": 20,
       "opponent": "Sassuolo",
       "opponentRank": 15,
@@ -76,15 +76,15 @@
         "L",
         "D"
       ],
-      "vulnerability": 82
+      "vulnerability": 80
     },
     {
       "league": "Serie A",
       "bottomTeam": "Parma",
-      "bottomRank": 19,
+      "bottomRank": 18,
       "tableSize": 20,
       "opponent": "Atalanta",
-      "opponentRank": 12,
+      "opponentRank": 13,
       "kickoff": "2026-11-02T19:45:00.000Z",
       "venue": "away",
       "form": [
@@ -94,15 +94,33 @@
         "L",
         "W"
       ],
-      "vulnerability": 82
+      "vulnerability": 79
+    },
+    {
+      "league": "Ligue 1",
+      "bottomTeam": "Brest",
+      "bottomRank": 14,
+      "tableSize": 18,
+      "opponent": "Lorient",
+      "opponentRank": 10,
+      "kickoff": "2026-11-02T19:45:00.000Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "vulnerability": 74
     },
     {
       "league": "LaLiga 2",
       "bottomTeam": "Cadiz",
-      "bottomRank": 18,
+      "bottomRank": 19,
       "tableSize": 22,
       "opponent": "Mallorca",
-      "opponentRank": 7,
+      "opponentRank": 8,
       "kickoff": "2026-11-02T20:00:00.000Z",
       "venue": "away",
       "form": [
@@ -112,7 +130,7 @@
         "W",
         "D"
       ],
-      "vulnerability": 69
+      "vulnerability": 71
     }
   ]
 }
