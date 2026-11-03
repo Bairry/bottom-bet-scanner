@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:35:37.663Z",
+  "generatedAt": "2026-11-03T12:51:16.321Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,13 +25,13 @@
   "errors": [],
   "matches": [
     {
-      "league": "Super League grecque",
-      "bottomTeam": "Atromitos",
-      "bottomRank": 14,
-      "tableSize": 14,
-      "opponent": "Volos NFC",
-      "opponentRank": 13,
-      "kickoff": "2026-11-02T16:00:00.000Z",
+      "league": "Championship",
+      "bottomTeam": "Charlton",
+      "bottomRank": 20,
+      "tableSize": 24,
+      "opponent": "Bolton",
+      "opponentRank": 19,
+      "kickoff": "2026-11-03T19:45:00.000Z",
       "venue": "home",
       "form": [
         "L",
@@ -40,97 +40,97 @@
         "D",
         "D"
       ],
+      "vulnerability": 73
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Derby",
+      "bottomRank": 23,
+      "tableSize": 24,
+      "opponent": "Norwich",
+      "opponentRank": 15,
+      "kickoff": "2026-11-03T19:45:00.000Z",
+      "venue": "home",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
       "vulnerability": 80
     },
     {
-      "league": "Süper Lig",
-      "bottomTeam": "Genclerbirligi",
-      "bottomRank": 16,
-      "tableSize": 18,
-      "opponent": "Alanyaspor",
-      "opponentRank": 12,
-      "kickoff": "2026-11-02T17:00:00.000Z",
+      "league": "Championship",
+      "bottomTeam": "Burnley",
+      "bottomRank": 22,
+      "tableSize": 24,
+      "opponent": "QPR",
+      "opponentRank": 9,
+      "kickoff": "2026-11-03T19:45:00.000Z",
+      "venue": "away",
+      "form": [
+        "D",
+        "L",
+        "L",
+        "D",
+        "W"
+      ],
+      "vulnerability": 78
+    },
+    {
+      "league": "Championship",
+      "bottomTeam": "Watford",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Lincoln",
+      "opponentRank": 16,
+      "kickoff": "2026-11-03T19:45:00.000Z",
       "venue": "home",
       "form": [
         "L",
         "L",
-        "D",
+        "W",
         "L",
         "L"
       ],
-      "vulnerability": 80
+      "vulnerability": 76
     },
     {
-      "league": "Serie A",
-      "bottomTeam": "Fiorentina",
-      "bottomRank": 17,
-      "tableSize": 20,
-      "opponent": "Sassuolo",
-      "opponentRank": 15,
-      "kickoff": "2026-11-02T17:30:00.000Z",
-      "venue": "away",
+      "league": "League One",
+      "bottomTeam": "Wigan",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Mansfield",
+      "opponentRank": 11,
+      "kickoff": "2026-11-03T19:45:00.000Z",
+      "venue": "home",
       "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "vulnerability": 80
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Parma",
-      "bottomRank": 18,
-      "tableSize": 20,
-      "opponent": "Atalanta",
-      "opponentRank": 13,
-      "kickoff": "2026-11-02T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
+        "W",
         "L",
         "L",
         "L",
         "W"
       ],
-      "vulnerability": 79
+      "vulnerability": 69
     },
     {
-      "league": "Ligue 1",
-      "bottomTeam": "Brest",
-      "bottomRank": 14,
-      "tableSize": 18,
-      "opponent": "Lorient",
-      "opponentRank": 10,
-      "kickoff": "2026-11-02T19:45:00.000Z",
+      "league": "League Two",
+      "bottomTeam": "Oldham",
+      "bottomRank": 21,
+      "tableSize": 24,
+      "opponent": "Northampton",
+      "opponentRank": 20,
+      "kickoff": "2026-11-03T19:45:00.000Z",
       "venue": "away",
       "form": [
         "L",
         "D",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 74
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Cadiz",
-      "bottomRank": 19,
-      "tableSize": 22,
-      "opponent": "Mallorca",
-      "opponentRank": 8,
-      "kickoff": "2026-11-02T20:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
         "L",
         "W",
         "D"
       ],
-      "vulnerability": 71
+      "vulnerability": 72
     }
   ]
 }
