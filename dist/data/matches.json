@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:58:52.408Z",
+  "generatedAt": "2026-11-07T11:46:49.423Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Süper Lig",
-      "bottomTeam": "Eyupspor",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Kocaelispor",
-      "opponentRank": 8,
-      "kickoff": "2026-11-07T10:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 91
-    },
     {
       "league": "2. Bundesliga",
       "bottomTeam": "Holstein Kiel",
