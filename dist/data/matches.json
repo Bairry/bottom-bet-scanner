@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:45:41.497Z",
+  "generatedAt": "2026-11-09T13:58:32.158Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -27,10 +27,10 @@
     {
       "league": "LaLiga 2",
       "bottomTeam": "Sociedad B",
-      "bottomRank": 18,
+      "bottomRank": 19,
       "tableSize": 22,
       "opponent": "Sabadell",
-      "opponentRank": 10,
+      "opponentRank": 12,
       "kickoff": "2026-11-09T19:30:00.000Z",
       "venue": "away",
       "form": [
@@ -40,25 +40,25 @@
         "L",
         "L"
       ],
-      "vulnerability": 80
+      "vulnerability": 82
     },
     {
       "league": "Premier League",
       "bottomTeam": "Sunderland",
-      "bottomRank": 20,
+      "bottomRank": 19,
       "tableSize": 20,
       "opponent": "Aston Villa",
       "opponentRank": 10,
       "kickoff": "2026-11-21T15:00:00Z",
       "venue": "away",
       "form": [
+        "W",
         "L",
         "D",
         "L",
-        "L",
         "L"
       ],
-      "vulnerability": 93
+      "vulnerability": 82
     }
   ]
 }
