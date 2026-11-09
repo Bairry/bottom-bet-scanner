@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:13:09.229Z",
+  "generatedAt": "2026-11-09T01:45:41.497Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -25,24 +25,6 @@
   "errors": [],
   "matches": [
     {
-      "league": "Liga Portugal",
-      "bottomTeam": "Rio Ave",
-      "bottomRank": 17,
-      "tableSize": 18,
-      "opponent": "Sp Braga",
-      "opponentRank": 8,
-      "kickoff": "2026-11-08T20:30:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D"
-      ],
-      "vulnerability": 76
-    },
-    {
       "league": "LaLiga 2",
       "bottomTeam": "Sociedad B",
       "bottomRank": 18,
@@ -59,6 +41,24 @@
         "L"
       ],
       "vulnerability": 80
+    },
+    {
+      "league": "Premier League",
+      "bottomTeam": "Sunderland",
+      "bottomRank": 20,
+      "tableSize": 20,
+      "opponent": "Aston Villa",
+      "opponentRank": 10,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "venue": "away",
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "vulnerability": 93
     }
   ]
 }
