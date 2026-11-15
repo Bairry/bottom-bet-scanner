@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:47:53.308Z",
+  "generatedAt": "2026-11-15T21:52:18.083Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,42 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Ceuta",
-      "bottomRank": 22,
-      "tableSize": 22,
-      "opponent": "Tenerife",
-      "opponentRank": 14,
-      "kickoff": "2026-11-15T13:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 96
-    },
-    {
-      "league": "LaLiga 2",
-      "bottomTeam": "Cadiz",
-      "bottomRank": 20,
-      "tableSize": 22,
-      "opponent": "Eibar",
-      "opponentRank": 4,
-      "kickoff": "2026-11-15T17:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 87
-    },
     {
       "league": "LaLiga 2",
       "bottomTeam": "Albacete",
