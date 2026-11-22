@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:18:04.556Z",
+  "generatedAt": "2026-11-22T13:24:52.445Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,60 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Eredivisie",
-      "bottomTeam": "Willem II",
-      "bottomRank": 18,
-      "tableSize": 18,
-      "opponent": "Twente",
-      "opponentRank": 4,
-      "kickoff": "2026-11-22T11:15:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "vulnerability": 95
-    },
-    {
-      "league": "Serie A",
-      "bottomTeam": "Venezia",
-      "bottomRank": 19,
-      "tableSize": 20,
-      "opponent": "Juventus",
-      "opponentRank": 7,
-      "kickoff": "2026-11-22T11:30:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "W"
-      ],
-      "vulnerability": 79
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Burnley",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Blackburn",
-      "opponentRank": 13,
-      "kickoff": "2026-11-22T12:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 78
-    },
     {
       "league": "2. Bundesliga",
       "bottomTeam": "Dresden",
