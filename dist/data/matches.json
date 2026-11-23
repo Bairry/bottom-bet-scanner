@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T22:29:55.760Z",
+  "generatedAt": "2026-11-23T16:04:52.293Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,24 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Super League grecque",
-      "bottomTeam": "Asteras Tripolis",
-      "bottomRank": 11,
-      "tableSize": 14,
-      "opponent": "Aris",
-      "opponentRank": 5,
-      "kickoff": "2026-11-23T15:00:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "W"
-      ],
-      "vulnerability": 65
-    },
     {
       "league": "LaLiga 2",
       "bottomTeam": "Ceuta",
