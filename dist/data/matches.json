@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:42:46.058Z",
+  "generatedAt": "2026-11-26T01:00:43.573Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -24,78 +24,6 @@
   ],
   "errors": [],
   "matches": [
-    {
-      "league": "Serie B",
-      "bottomTeam": "Arezzo",
-      "bottomRank": 16,
-      "tableSize": 20,
-      "opponent": "Mantova",
-      "opponentRank": 6,
-      "kickoff": "2026-11-25T19:00:00.000Z",
-      "venue": "away",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "L",
-        "L"
-      ],
-      "vulnerability": 81
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Burnley",
-      "bottomRank": 22,
-      "tableSize": 24,
-      "opponent": "Birmingham",
-      "opponentRank": 5,
-      "kickoff": "2026-11-25T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "D",
-        "L",
-        "D",
-        "D",
-        "L"
-      ],
-      "vulnerability": 77
-    },
-    {
-      "league": "Championship",
-      "bottomTeam": "Watford",
-      "bottomRank": 21,
-      "tableSize": 24,
-      "opponent": "Blackburn",
-      "opponentRank": 13,
-      "kickoff": "2026-11-25T19:45:00.000Z",
-      "venue": "home",
-      "form": [
-        "L",
-        "D",
-        "W",
-        "L",
-        "L"
-      ],
-      "vulnerability": 72
-    },
-    {
-      "league": "National League",
-      "bottomTeam": "Solihull",
-      "bottomRank": 20,
-      "tableSize": 24,
-      "opponent": "Hartlepool",
-      "opponentRank": 19,
-      "kickoff": "2026-11-25T19:45:00.000Z",
-      "venue": "away",
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "L"
-      ],
-      "vulnerability": 55
-    },
     {
       "league": "League One",
       "bottomTeam": "Doncaster",
