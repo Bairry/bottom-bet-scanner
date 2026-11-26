@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:00:43.573Z",
+  "generatedAt": "2026-11-26T15:24:47.394Z",
   "source": "TheSportsDB + Football-Data.co.uk",
   "leagues": [
     "Premier League",
@@ -27,7 +27,7 @@
     {
       "league": "League One",
       "bottomTeam": "Doncaster",
-      "bottomRank": 20,
+      "bottomRank": 21,
       "tableSize": 24,
       "opponent": "Huddersfield",
       "opponentRank": 2,
@@ -40,7 +40,7 @@
         "W",
         "L"
       ],
-      "vulnerability": 74
+      "vulnerability": 76
     }
   ]
 }
